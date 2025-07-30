@@ -28,6 +28,6 @@ A beginner-friendly exploratory data analysis (EDA) project using data from the 
 ## 🛠️ Tools Used
 - Collab Notebook
 - PostgreSQL (CTEs, JOINS, Aggregations)
-- Git & GitHub
+- ChatGPT for Charts
 
 ---
